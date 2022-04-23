@@ -4,7 +4,7 @@ namespace
 {
     const char* host = "192.168.10.129";
     const char* user = "root";
-    const char* passwd = "mysql@linux";
+    const char* passwd = "password";
     const char* db = "tank";
     const unsigned int port = 3306;
 }
