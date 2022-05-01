@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/server.dir/src/main.cpp.o CMakeFiles/server.dir/src/net.cpp.o CMakeFiles/server.dir/src/logger.cpp.o CMakeFiles/server.dir/src/cTask.cpp.o CMakeFiles/server.dir/src/task.cpp.o CMakeFiles/server.dir/src/threadPool.cpp.o CMakeFiles/server.dir/src/tank.cpp.o  -o server  -lpthread -lmysqlclient 
